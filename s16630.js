@@ -1,3 +1,4 @@
+
 export default class S16630{
     constructor(){
         this.name = "技能三";
